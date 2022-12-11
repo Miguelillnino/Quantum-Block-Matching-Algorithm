@@ -1,0 +1,205 @@
+Avances de computación cuántica
+
+https://www.zapatacomputing.com/quantum-computing-careers/
+https://www.zapatacomputing.com/interns/
+https://qbraid.com/careers/
+https://jobs.lever.co/agnostiq
+https://residency.xanadu.ai/
+https://xanadu.applytojob.com/apply
+
+
+
+cnots
+
+error_gate1 = pauli_error([('X',p_gate1), ('I', 1 - p_gate1)])
+
+correr el modelo simulador con ruido.
+
+
+error en las compuertas de un qubit.
+
+noise_simulator T2,T1
+
+Mostrar plots
+
+
+optimizer=None
+
+*************************
+*************************
+*************************
+*************************
+*************************
+
+reducción de número de compuertas en las Rotraciónes pi/8,pi/4,Pi/2
+y después ejecutar el circuito.
+
+posteriormente implementar ruido en las compuertas de 1 qubit, en las de 2 qubits.
+
+https://qiskit.org/documentation/tutorials/simulators/3_building_noise_models.html
+
+y con ello mostrar plots con análisis de estos modelos de ruido.
+
+Implementar el optimizador al momento de executar el circuito. 
+		RAZÓN ---------> https://www.classiq.io/insights/quantum-software-optimization
+			  ---------> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwhqGgkOP7AhW2g2oFHWQgBWoQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2206.07885&usg=AOvVaw1l8ZZZpxE4CBP8-5RogUAW (Quantum Circuit Optimization and Transpilation via Parameterized Circuit Instantiation)
+			  ---------> https://medium.com/qiskit/how-does-the-qiskit-transpiler-work-6710863beaac
+			  ---------> https://qiskit.org/documentation/apidoc/transpiler.html
+			  ---------> transpilador, compilador e interprete.
+			  ---------> ¿Qué es la transpilación? La transpilación convierte el código fuente de un lenguaje de programación en un código fuente equivalente del mismo o de otro lenguaje de programación
+			  ---------> https://en.wikipedia.org/wiki/Source-to-source_compiler
+
+			  
+
+para ver la profundidad del circuito cuantico
+
+https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk_devices_and_jobs.ipynb
+
+Checar el número de qubits de cada una de las computadoras cuánticas.
+
+número de qubits
+
+*************************
+*************************
+*************************
+*************************
+*************************
+https://www.quandela.com/
+quandela y ruido.
+
+phoinics modelo continuo
+
+modelo discreto
+
+blit-split en lugar de cnots
+
+quantum samples
+
+16 qubits.
+
+
+harmond, pulsos, compuertas de 3 x 3.
+
+XANADU
+
+https://strawberryfields.ai/
+https://strawberryfields.ai/photonics/index.html
+
+
+*************************
+*************************
+*************************
+*************************
+*************************
+
+conjunto de fases activar un control
+qc.p(list][])
+
+activar control a la QRAM
+
+sumas y restas
+
+en kernel de 4 x 4.
+
+4 decimales
+
+
+sumatoria
+
+0,5
+1,6
+2,7
+
+izquierda derecha
+
+coordinadas
+
+
+Bell
+
+H en 0 cnot 0,5
+
+H en 1 cnot 1,6
+
+
+QFT 
+
+izquierda los primeros pixeles image 1
+
+derecha segundos pixeles image 2
+
+
+subrutine imagen a
+subrutime imagen b
+
+
+lista de 5 a 5
+
+por batch the listas el circuito.
+
+
+ 5,5
+
+ en un vector.
+
+ flags ultimo cubits.
+
+
+4,4.
+
+
+ae_simulator parallelo
+qiskit
+qParallelo
+
+GPU simulation
+
+
+
+lctm cuantica
+
+qOSF
+
+
+valor promedio
+
+
+el valor de los pixeles se guardan en data_0
+
+drapper por fases.
+
+
+
+hacer restas con division,
+
+indice de la fase maxima
+
+también ocupando el promedio o el maximo
+
+
+del conjunto de pixeles cual es el valor maximo o promedio
+
+de un pulling!
+
+Grover para el valor maximo
+
+Oraculo
+
+indice minimo o maximo.
+
+
+asignar indices al vector minimo y maximo.
+
+
+erosion y dilatacion, kernel distancia pulling.
+
+
+and, sumas restas y division, pullling, erosion y dilatacion
+
+sqrt((n)) Grover
+
+grafo a Hamiltoniano.
+
+tensorflow quantum
+
+vuf3nm6z
