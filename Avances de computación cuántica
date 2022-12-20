@@ -203,3 +203,150 @@ grafo a Hamiltoniano.
 tensorflow quantum
 
 vuf3nm6z
+
+
+
+############################
+11/12/(2022)
+
+
+
+    resultados de la probabilidad de la disimilitud de la compuerta swap
+lidades.
+
+x-> modelos de ruido
+y-> resultados en porcentajes
+x,y
+
+
+Estado del arte de las computadoras NISQ
+y las limitaciones de ruido. número de compuestar, qubits y resultados.
+
+Comparación de los Resultados con la parte clasical.
+
+el mejor de los casos peor de los casos con ruido y simulado.
+
+
+Grado de libertad, confiabilidad.
+
+
+
+plot de relación de los resultados con base en el promedio de las probab
+
+
+Con base en el hardware que se puede impleemntar.
+
+
+Reporte en Overleaf
+
+Análisis para cada uno de los enfoques.
+
+REPORTE en OVERLEAF:
+
+Paper, tutorial
+
+Draft Paper y/o codigo.
+
+objetivo a conferencia o POSTER
+
+ARVIX
+
+código abierto en github.
+
+
+
+############################
+
+############################
+
+
+
+***FULL STACK DEVELOPER***
+
+Qualifications
+
+    Experience developing applications with CSS, JavaScript, TypeScript, Python
+    Proficiency in one or more front-end JavaScript frameworks (e.g. Angular, Vue, React)
+    Experience with AWS cloud services (e.g. EB, EC2, S3)
+    Experience with NoSQL databases (e.g. MongoDB, DynamoDB)
+    Experience with Node.js runtime environments and REST APIs
+    Experience with Git and CI/CD workflows
+    Self-motivated, and comfortable working both independently and collaboratively on complex projects in a fast-paced environment.
+    Excellent written and verbal communication skills
+
+Preferred Qualifications
+
+    Enthusiasm for quantum computing
+    Experience developing react17+
+    Experience working with cypress for UI/UX testing
+    Familiarity with the Jupyter stack (i.e. JupyterHub, JupyterLab, Jupyter Notebook)
+    Experience with Python web frameworks (e.g. Tornado, Flask) and WebSockets
+
+
+ ***Cloud DevOps Engineer ***
+
+  Basic Qualifications
+
+    Experience developing applications with JavaScript, TypeScript, Python
+    Experience deploying/managing containerized applications with Kubernetes and Docker
+    Strong experience using AWS cloud services (e.g. IAM, S3, ECR, EKS, EB, EC2)
+    Experience with NoSQL databases (e.g. MongoDB, DynamoDB)
+    Experience with Node.js runtime environments and REST APIs
+    Experience with Git, CI/CD workflows, and event-driven automation
+    Experience building cloud-based solutions and scaling cloud infrastructures
+    Self-motivated, and comfortable working both independently and collaboratively on complex projects in a fast-paced environment.
+    Excellent written and verbal communication skills
+
+Preferred Qualifications
+
+    Enthusiasm for quantum computing
+    Familiarity with Jenkins, minikube, Helm
+    Familiarity with the Jupyter stack (i.e. JupyterHub, JupyterLab, Jupyter Notebook)
+
+
+ Basic Qualifications
+
+    BSc in Engineering, Computer Science, Physics, or relevant related discipline.
+    Familiarity with quantum computing stack (applications, compilers, circuits, algorithms, pulses)
+    Strong Python and object-oriented programming skills.
+    Experience with high-level scientific programming frameworks in Python.
+    Experience with one or more of the following open-source quantum software packages: Qiskit, Cirq, Amazon Braket, Pennylane, pyQuil.
+    Experience with software engineering best practices: testing, continuous integration, version control, documentation, and code review.
+    Self-motivated, and comfortable working both independently and collaboratively on complex projects in a fast-paced environment.
+    Excellent written and verbal communication skills
+
+***Quantum Software Engineer***
+
+Quantum Software Engineer
+
+Remote or In-Person (Chicago, IL)
+
+About qBraid
+
+qBraid is a one-stop platform for accessing quantum software and hardware. We are building a cloud-based IDE that is highly optimized for quantum computing. Our mission is to provide an end-to-end experience for everyone and anyone in quantum, and by doing so, hope to accelerate the pace of the quantum computing revolution.
+The Role
+
+Your work will focus on development of the qBraid SDK, our Python toolkit for building and executing quantum programs. You will have a paramount role in this project, and be hands-on from day one helping us design, build, test, and deploy modules for quantum algorithms and applications. We are looking for engineers who are critical thinkers, analytical, and passionate about building practical solutions. You will also need to be flexible, adaptable, and a persistent problem-solver. 
+Basic Qualifications
+
+    BSc in Engineering, Computer Science, Physics, or relevant related discipline.
+    Familiarity with quantum computing stack (applications, compilers, circuits, algorithms, pulses)
+    Strong Python and object-oriented programming skills.
+    Experience with high-level scientific programming frameworks in Python.
+    Experience with one or more of the following open-source quantum software packages: Qiskit, Cirq, Amazon Braket, Pennylane, pyQuil.
+    Experience with software engineering best practices: testing, continuous integration, version control, documentation, and code review.
+    Self-motivated, and comfortable working both independently and collaboratively on complex projects in a fast-paced environment.
+    Excellent written and verbal communication skills
+
+Preferred Qualifications
+
+    MSc or PhD in Engineering, Computer Science, Physics, or relevant related discipline.
+    Expertise in quantum computing, as demonstrated by in-field experience, extensive coursework, thesis, or peer-reviewed publications.
+    Familiarity with NISQ algorithms (e.g. VQAs, QA, QAOA)
+    Familiarity with OpenQASM
+    Experience developing open-source software
+    Familiarity with Node.js runtime environments and REST APIs
+
+ 
+
+At qBraid, we value each of our team members’ unique set of skills and experience and use a collaborative, user-driven approach when mapping our goals and product timelines. You will have a paramount role in this process. As a quantum software engineer at qBraid, you will have the freedom and the platform to do your very best work. Even if you don’t meet all of the criteria above, please apply! We would love to hear about how you can see yourself growing into this role, and why you are well-equipped to do so.
