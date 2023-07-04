@@ -27,6 +27,36 @@ optimizer=None
 
 *************************
 *************************
+
+
+
+desde modelo perfecto hasta un aumento de error.
+
+en el eje X, aumentar el error.
+
+
+Segundo plot con CNOT
+
+Aumento de error disminuye la probabilidad
+
+500USD ----> 50,000 creditos e IOQ
+
+En Ionq hay nativegates.
+Reducir el tamaño del circuito.
+
+11 am CDMX y 6 pm España Domingo
+
+https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk_devices_and_jobs.ipynb
+
+
+https://lab.qbraid.com/user/miguelillnino@gmail.com/lab?redirects=1
+
+https://account.qbraid.com/
+
+
+
+
+
 *************************
 *************************
 *************************
@@ -207,6 +237,7 @@ vuf3nm6z
 
 
 ############################
+############################
 11/12/(2022)
 
 
@@ -226,9 +257,7 @@ Comparación de los Resultados con la parte clasical.
 
 el mejor de los casos peor de los casos con ruido y simulado.
 
-
 Grado de libertad, confiabilidad.
-
 
 
 plot de relación de los resultados con base en el promedio de las probab
@@ -254,10 +283,231 @@ ARVIX
 código abierto en github.
 
 
+Quantum depolarizing channel
+https://en.wikipedia.org/wiki/Quantum_depolarizing_channel
+
+############################
+############################
+22/01/2023
+
+Fidelidades con respecto al error.
+
+El error vs la probabilidad de 
+
+Plot 
+
+Basis gates = CX, ID, IF_ELSE, RZ, SX, X
+
+funcion optimazer = 3
+
+
+Probar el error con únicamente CX.
+
+S3 ucket Random
+QBraid, SDK
+
+
+Plots en Draft.
+Mostarr resultados en Draft.
+
+Swap test, una y dos compuertas modelo de ruido.
+
+
+
+Shots y tiempo en los dispositivos de Qbraid, Creditos.
+############################
+############################
+
+############################
+############################
+Distancia Euclideana con swap test modulo separado
+Distancia draper adder
+
+1/2 de probabilidad.
+
+0,.
+
+$110 dolares en crédito
+
+$10.30 en total. con 1000 shots
+Inicial.
+
+Aumentar los shots peor caso
+3000.
+Aumentar los shots caso promedio
+2000
+
+AKnwoledge Qbraid
+
+11 y 12 de Febrero presentación final internamente.
+UTC pendiente.
+
+
+Ingles.
+
+Modelos de ruido plots,
+
+Diagrama
+
+Comparación de Qiskit y Qbraid Hardware.
+
+
+Nota: Quera 250 qubits 
+Atomos neutros.
+Iones atrapados Ionq 
+
+
+
+
+['measure', 'u1', 'u2', 'u3', 'h', 'cx', 'cp', 'cy', 'cz', 'id', 'p', 'rx', 'ry', 'rz', 's', 'sdg', 'swap', 't', 'tdg', 'sx', 'sxdg', 'x', 'rxx', 'y', 'ryy', 'z', 'rzz', 'ecr']
+
+
+Initialize cambiar, y sólo las que ocupo en compuertas
+
+Propiedades de IonQ
+
+U o U3
+
+convertir el circuito cuantico a compuertas
+
+qasm de 
+
+HAcer el transpile desde arriba.
+
+
+Una funciójn para Psi y phi
+
+
+
+help.localSimulator()
+
+
+Probar la compuerta swap en Hardware.
+
+Diagrama en la metodologia 2
+
+
+plot con Cnot error.
+
+
+Explicar hardware de IONQ
+Detalles para correr proyectos
+
+
+Fidelidades de los circuitos al correr en hardware.
+
+
+https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk_devices_and_jobs.ipynb
+
+
+Qasc
+coherencia cuantica.
+
+
+U,U2,U3, RY,R
 
 ############################
 
 ############################
+
+
+https://github.com/qiskit-community/qiskit-braket-provider/issues
+
+Issue, para levantar el reporte de las compuertas que reconoce Amazon brajet, de la nueva versión de Qiskit.
+
+
+U y R.
+
+############################
+
+############################
+
+Diseño de las barras, por puntos en los plot
+
+Fidelity en Experiment event.
+
+Subir las imagenes de avances al repoprte 
+
+
+Similitud->normalized result ("Probabilities") vs noise model #numeral
+0,.025,.05,.075,.1,.125.
+
+
+Concursos
+
+QOSF
+
+PAPERS
+
+Experiencia
+
+Links, checar cv de Alberto
+
+Github, enlace, para ver códigos.
+
+Ingléss.
+
+############################
+############################
+############################
+############################
+05/03/2023
+
+fidelidad de la C-NOT
+
+error grate_ disminuyendo el error.
+Si el hardware tuviese esa fidelidad, entonces los resultados serán prometedores.
+conclusión
+
+Limite del Cúartil de fidelidad, skweness 
+Con base en IONQ o Belem, checar el límite de fidelidad.
+
+Distribución de probabilidad, dado cierto cuartil existe una confianza de tener un resultado real. arriba del 95% por ejemplo
+
+valor aceptable con ruido.
+
+
+
+
+implmentar circuit_wrapper
+
+Caso general de las pruebas exahustivas.
+
+
+
+
+############################
+############################
+############################
+26/03/2023
+Fidelidad en el eje x 
+
+aumentar el número de shots en cuanto mayor ruido exista.
+
+Chacar, IOQ Real.
+
+Varias pruebas para el promedio.
+
+Reducción de compuertas en la Fourier
+
+Probar Fourier en una computadora real.
+
+Swap test, parte teoría.
+
+con tiempo del fin de semana de Semana santa. 
+
+
+
+##########################
+############################
+############################
+
+Fidelity one wubit gate
+(1-Error)
+100%
+99%
+
+
 
 
 
@@ -350,3 +600,36 @@ Preferred Qualifications
  
 
 At qBraid, we value each of our team members’ unique set of skills and experience and use a collaborative, user-driven approach when mapping our goals and product timelines. You will have a paramount role in this process. As a quantum software engineer at qBraid, you will have the freedom and the platform to do your very best work. Even if you don’t meet all of the criteria above, please apply! We would love to hear about how you can see yourself growing into this role, and why you are well-equipped to do so.
+
+
+
+
+
+pip install pylatexenc
+
+
+It will be a very interesting result implementing the optimization usign D-wave or https://www.quera.com/aquila
+
+
+QuEra
+
+https://www.quera.com/aquila
+
+Cold atomic circuits
+
+https://oxfordquantumcircuits.com/
+
+https://github.com/qBraid/qbraid-lab-demo
+
+
+
+
+amazon-braket-sdk==1.29.3
+
+qiskit==37.2
+
+A quantum circuit is:
+
+"A quantum circuit is a computational routine consisting of coherent quantum operations on qubits ... It is an ordered sequence of quantum gates, measurements and resets, all of which may be conditioned on and use data from the real-time classical computation."
+
+
