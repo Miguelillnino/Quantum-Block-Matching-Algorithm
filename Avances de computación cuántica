@@ -633,3 +633,78 @@ A quantum circuit is:
 "A quantum circuit is a computational routine consisting of coherent quantum operations on qubits ... It is an ordered sequence of quantum gates, measurements and resets, all of which may be conditioned on and use data from the real-time classical computation."
 
 
+########################3
+#########################
+########################
+QFT
+
+
+Colocar gráfica de de complejidad número de cúbits.
+Breve explicación de cuantos cúbits se ocupan.
+
+
+
+Vector distancia 5, salen mejores resultados.
+
+swapt test,
+CNOT 
+
+
+
+noise model.
+
+IEEE latin maerica transaction.
+
+
+Escalabilidad de los cúbits con las imágenes
+
+
+
+Tabla de las caracteristicas de las computadoreas y trabajos fechas,
+
+
+
+
+
+
+IBM	Shots  QED  CED
+
+OQC
+
+IonQ Harmony
+
+IonQ Aria
+
+
+
+
+############################
+############################
+############################
+############################
+22/10/2023
+
+
+Justificar porque se ocupan vectores en lugar de imágenes para actualizar el ARXIV
+
+
+1024 shots en Qbraid
+
+1024 shots en Qbraid
+
+
+
+Ideas:
+
+Aplicación a imágenes en vídeo.
+
+Generar Ruido 100% cuántico QRFI.
+
+Mitigación de Error.
+
+Transformada del dominio de frecuencias 100% cuánticos.
+
+Aprendizaje no supervisado PCA o ICA (crear un modelo 100% cuántico) para clasificar caracterización de imágenes de textura, intermedias y planas.
+
+Swap Test pruebas en QPU para ver la distancia euclideana con distancias más grandes
+
